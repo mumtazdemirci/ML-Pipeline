@@ -1,8 +1,6 @@
 # Disaster Response Pipeline Project
 
-This Project is part of Data Science Nanodegree Program by Udacity in collaboration with Figure Eight. Figure Eight has provided data related to messages, categorized into different classifications, that have been received during emergencies/disasters. The purpose of the project is to create a Natural Language Processing tool that categorize messages.
-
-This is a web application written in python to automatically classify text messages into different categories of disaster management. Furthermore, two visualizations from the data set are available as examples. 
+This Project is part of Data Science Nanodegree Program by Udacity in collaboration with Figure Eight. Figure Eight has provided data related to messages, categorized into different classifications, that have been received during emergencies/disasters.  The purpose of the project is to create a Natural Language Processing tool that categorize messages.
 
 ### Project Components
 There are three components in this project.
